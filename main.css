@@ -49,20 +49,20 @@ header{
 
 
 .blog{
-	background-color: #CCCC33;
+	background-color: #006600;
 }
 .github{
 	background-color: #669933;
 }
 .love{
-	background-color: #006633;
+	background-color: #CCCC33;
 }
 .resume{
-	background-color: #006600;
+	background-color: #999999;
 }
 .about{
-	background-color: #666633;
+	background-color: #006633;
 }
-.other{
-	background-color: #999999;
+.share{
+	background-color: #666633;
 }
