@@ -1,17 +1,17 @@
-body{
-	background-color: #dcdcdc;
+body {
+	background-color: #ffffff;
 }
 
-.container{
+.container {
 	width: 90%;
 	margin: 0 auto;
 }
 
-header{
+header {
 	margin-top: 100px;
 }
 
-.demo{
+.demo {
 	width: 100%;
 	display: flex;
 	justify-content: space-around;
@@ -19,7 +19,7 @@ header{
 	flex-wrap: wrap;
 }
 
-.demo .item{
+.demo .item {
 	width: 300px;
 	height: 150px;
 	margin-left: 20px;
@@ -29,11 +29,11 @@ header{
 	transition: opacity 500ms;
 }
 
-.item:hover{
+.item:hover {
 	opacity:0.5;
 }
 
-.item a{
+.item a {
 	color: #ffffff;
 	font-size: 1.65em;
 	transition: font-size 500ms;
@@ -42,27 +42,33 @@ header{
 	line-height: 150px;
 }
 
-.item a:hover{
+.item a:hover {
 	font-size:1.8em;
 	color: #dddddd;
 }
 
-
-.blog{
-	background-color: #006600;
-}
-.github{
-	background-color: #669933;
-}
-.love{
+.love {
 	background-color: #CCCC33;
 }
-.resume{
-	background-color: #999999;
+
+.github {
+	background-color: #669933;
 }
-.about{
-	background-color: #006633;
+
+.blog {
+	background-color: #006600;
 }
-.share{
-	background-color: #666633;
+
+.icp {
+	color: #b9b9b9;
+	text-align: center;
+	margin-top: 400px;
+}
+
+.icp a:link {
+	text-decoration: none;
+}
+
+.icp a:hover {
+	text-decoration: none;
 }
