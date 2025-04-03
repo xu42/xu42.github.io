@@ -48,15 +48,19 @@ header {
 }
 
 .love {
-	background-color: #CCCC33;
+	background-color: #BE5985;
 }
 
 .github {
-	background-color: #669933;
+	background-color: #BE5985;
 }
 
 .blog {
-	background-color: #006600;
+	background-color: #FFB8E0;
+}
+
+.tools {
+	background-color: #FFEDFA;
 }
 
 .icp {
